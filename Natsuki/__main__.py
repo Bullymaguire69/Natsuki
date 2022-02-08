@@ -63,8 +63,17 @@ from Natsuki.modules.helper_funcs.misc import paginate_modules
 from Natsuki.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-👋 Hey There, My Name is 𝗡𝗮𝘁𝘀𝘂𝗸𝗶. 
-I'm a Powerfull Group Manager Bot With Cool Modules. feel free to add me to your groups!
+ 👋 Hey There, My Name is Bully Maguire Bot.
+ A telegram group management bot. I'm here to help you to manage your groups.
+ I have lots of handy features such as:
+ ‣ Warning system
+ ‣ Artificial intelligence
+ ‣ Flood control system
+ ‣ Note keeping system
+ ‣ Filters keeping system
+ ‣ Approvals and much more.
+ So what are you waiting for?
+ Add me in your groups and give me full rights to make me function well 
 """
 
 buttons = [
@@ -92,10 +101,10 @@ buttons = [
     ],
 ]
 
-NATSUKI_IMG = "https://telegra.ph/file/2d0fa7e07eb1fe3983aba.jpg"
+NATSUKI_IMG = "https://telegra.ph/file/bae86d12dcaff0b214916.jpg"
 
 HELP_STRINGS = f"""
-*Main Commands :* [🤖](https://telegra.ph/file/2d0fa7e07eb1fe3983aba.jpg)
+*Main Commands :* [🤖](https://telegra.ph/file/bae86d12dcaff0b214916.jpg)
 
 /start: Starts me! You've probably already used this.
 /help: Click this, I'll let you know about myself!
